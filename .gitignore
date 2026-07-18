@@ -1,0 +1,8 @@
+# Ignore object files
+*.o
+
+# Ignore executables (replace these with whatever you named your compiled files)
+echo
+cat
+cp
+mv
