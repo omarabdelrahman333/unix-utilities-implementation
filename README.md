@@ -19,9 +19,8 @@ gcc -Wall -Werror -o mv mv.c
 gcc -Wall -Werror -o pwd pwd.c
 
 ## Examples of output:
-
-$ ./pwd
-/home/omar/6
+$cd ~/Linux_utilities_implementation$ ./pwd
+/home/user/Linux_utilities_implementation
 
 
 $ ./echo Hello World
